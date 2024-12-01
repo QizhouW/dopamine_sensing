@@ -1,0 +1,5 @@
+array([list([['rectangle', [(82, 89), 11, 11]]]),
+       list([['rectangle', [(20, 32), 19, 23]], ['rectangle', [(29, 37), 22, 22]], ['rectangle', [(22, 32), 14, 24]]]),
+       list([['rectangle', [(57, 76), 19, 96]], ['rectangle', [(82, 54), 78, 97]]]),
+       list([['rectangle', [(74, 91), 15, 18]], ['rectangle', [(90, 38), 17, 17]], ['rectangle', [(47, 59), 13, 29]], ['rectangle', [(68, 31), 53, 21]], ['rectangle', [(47, 79), 17, 12]]])],
+      dtype=object)
